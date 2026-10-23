@@ -4,7 +4,7 @@ At least 4 testers, at least 2 from outside the group. Obtain consent before nam
 
 | # | Tester category (student / lecturer / cooperative rep / intended user) | Consent to be named? | Task given | Observation | Resulting decision / fix (issue link) |
 |---|---|---|---|---|---|
-| 1 | REPLACE | | | | |
+| 1 | eature/tfidf-engine | Dominic Onen | | | |
 | 2 | REPLACE | | | | |
 | 3 | REPLACE | | | | |
 | 4 | REPLACE | | | | |

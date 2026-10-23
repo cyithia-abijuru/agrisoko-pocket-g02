@@ -1,4 +1,4 @@
-"""Validate members.json, build the index and write fingerprint + model metadata.
+""" Validate members.json, We build the index and also write fingerprint + model metadata.
 
 Usage: python build_index.py [path/to/members.json]
 """
