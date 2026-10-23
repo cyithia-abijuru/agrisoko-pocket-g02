@@ -1,7 +1,7 @@
 [
   {
     "id": "m1",
-    "fullName": "Arop",
+    "fullName": "Cynthia",
     "registrationNumber": "REPLACE-REG-1",
     "aliases": ["One", "Product Lead"],
     "githubUsername": "replace-github-1",
@@ -19,7 +19,7 @@
       "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
     },
     "testerFeedback": null,
-    "introductionDraft": "My name is Arop Malual. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
+    "introductionDraft": "My name is Cynthia. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
   },
   {
     "id": "m2",
@@ -89,10 +89,10 @@
   },
   {
     "id": "m5",
-    "fullName": "Cynthia",
-    "registrationNumber": "REPLACE-REG-5",
+    "fullName": "Arop",
+    "registrationNumber": "25/27389",
     "aliases": ["Five", "Offline Engineer"],
-    "githubUsername": "replace-github-5",
+    "githubUsername": "arop7431-afk",
     "role": "Offline and quality engineer",
     "skills": ["AsyncStorage", "NetInfo", "cache management", "device testing", "issue reproduction"],
     "targetUser": "Cooperative members using Android phones, especially in areas without network coverage",
@@ -101,13 +101,13 @@
     "feature": "offline caching and quality engineering",
     "outcomeMetric": null,
     "evidenceLinks": {
-      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/5",
+      "issue": "8https://github.com/cyithia-abijuru/agrisoko-pocket-g02/issues/4",
       "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/5",
-      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "commit": "https://github.com/cyithia-abijuru/agrisoko-pocket-g02/commits/main/",
       "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
     },
     "testerFeedback": null,
-    "introductionDraft": "My name is Cynthia. I built the offline caching and quality assurance system for AgriSoko Pocket."
+    "introductionDraft": "My name is Arop Malual. I built the offline caching and quality assurance system for AgriSoko Pocket."
   },
   {
     "id": "m6",
