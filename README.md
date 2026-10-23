@@ -12,6 +12,9 @@ A visitor asks a natural question ("Who built offline mode?", "Tell me about Ali
 |---|------|----------|--------|--------------|-------------|
 <<<<<<< Updated upstream
 | 1 | REPLACE | REPLACE | REPLACE | Product and GitHub lead | |
+| 2 | REPLACE | REPLACE | REPLACE | AI and data engineer | |
+| 3 | Fajwan Chanjwok | 25/28110 | Hockmon69 | API and integration engineer | |
+| 4 | REPLACE | REPLACE | REPLACE | Mobile, offline and release | |
 | 2 | Dominic Onen | 2528259 | DominicOnen | AI and data engineer | |
 =======
 | 1 | ABIJURU Cynthia | cyithia-abijuru | REPLACE | Product and GitHub lead | |
