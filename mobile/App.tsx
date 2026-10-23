@@ -14,6 +14,7 @@ import { RootStackParamList } from './src/types';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
+
 export default function App() {
   return (
     <SafeAreaProvider>
