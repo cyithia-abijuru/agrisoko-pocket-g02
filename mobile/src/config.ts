@@ -9,3 +9,4 @@ export const GROUP_CODE = extra.groupCode ?? 'G02';
 export const GITHUB_URL = extra.githubUrl ?? '';
 export const VERIFICATION_CODE = extra.verificationCode ?? '';
 export const APP_VERSION = Constants.expoConfig?.version ?? '1.0.0';
+#member5
