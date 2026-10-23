@@ -1,0 +1,134 @@
+[
+  {
+    "id": "m1",
+    "fullName": "Arop",
+    "registrationNumber": "REPLACE-REG-1",
+    "aliases": ["One", "Product Lead"],
+    "githubUsername": "replace-github-1",
+    "role": "Product and GitHub lead",
+    "skills": ["GitHub issues", "pull requests", "release management", "backlog planning"],
+    "targetUser": "Potato cooperative members and innovation partners in Musanze",
+    "problem": "Visitors need to quickly see who built each part of AgriSoko Pocket and what evidence supports it.",
+    "contribution": "Managed the backlog, repository access, milestones, the v1.0.0 tag and the GitHub Release.",
+    "feature": "release packaging and repository traceability",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/1",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/1",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Arop Malual. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
+  },
+  {
+    "id": "m2",
+    "fullName": "Onen",
+    "registrationNumber": "25/28259",
+    "aliases": ["Two", "AI Engineer"],
+    "githubUsername": "https://github.com/DominicOnen",
+    "role": "AI and data engineer",
+    "skills": ["TF-IDF", "scikit-learn", "cosine similarity", "pandas", "model evaluation"],
+    "targetUser": "Visitors who ask natural questions about team members",
+    "problem": "Natural-language questions must be matched to the right approved member profile, and vague questions must be rejected.",
+    "contribution": "Built the members.json schema, text normalization, the TF-IDF index, confidence threshold and the evaluation script.",
+    "feature": "TF-IDF matching engine and no-match logic",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/DominicOnen/agrisoko-pocket-G02/issues/2",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/2",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Dominic Onen. I built the matching engine that finds the right team member for a question in AgriSoko Pocket."
+  },
+  {
+    "id": "m3",
+    "fullName": "Fabio",
+    "registrationNumber": "REPLACE-REG-3",
+    "aliases": ["Three", "API Engineer"],
+    "githubUsername": "replace-github-3",
+    "role": "API and integration engineer",
+    "skills": ["FastAPI", "Pydantic", "deployment", "logging", "API contract"],
+    "targetUser": "The mobile app and its users who need a reliable service",
+    "problem": "The mobile app needs a validated, safe API that never returns invented fields.",
+    "contribution": "Implemented the FastAPI endpoints, Pydantic validation, error handling and deployment of the service.",
+    "feature": "FastAPI service and deployment",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/3",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/3",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Fajwan Chanjwok. I built the FastAPI service that connects the AgriSoko Pocket app to the matching engine."
+  },
+  {
+    "id": "m4",
+    "fullName": "Ali",
+    "registrationNumber": "REPLACE-REG-4",
+    "aliases": ["Four", "Mobile Engineer"],
+    "githubUsername": "replace-github-4",
+    "role": "Mobile UI and navigation engineer",
+    "skills": ["React Native", "Expo", "TypeScript", "UI components", "navigation", "accessibility"],
+    "targetUser": "Cooperative members using Android phones",
+    "problem": "Users need an intuitive, accessible mobile interface to navigate team profiles and query member information.",
+    "contribution": "Built the app screens, components, navigation, accessibility features, and profile presentations.",
+    "feature": "mobile UI and profile presentation",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/4",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/4",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Ali Salahadin. I built the UI screens, components, and navigation for AgriSoko Pocket."
+  },
+  {
+    "id": "m5",
+    "fullName": "Cynthia",
+    "registrationNumber": "REPLACE-REG-5",
+    "aliases": ["Five", "Offline Engineer"],
+    "githubUsername": "replace-github-5",
+    "role": "Offline and quality engineer",
+    "skills": ["AsyncStorage", "NetInfo", "cache management", "device testing", "issue reproduction"],
+    "targetUser": "Cooperative members using Android phones, especially in areas without network coverage",
+    "problem": "Users need reliable offline data persistence and cache tracking when network connectivity is lost.",
+    "contribution": "Implemented AsyncStorage, NetInfo integration, cache source labeling, device testing, and issue reproduction.",
+    "feature": "offline caching and quality engineering",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/5",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/5",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Cynthia. I built the offline caching and quality assurance system for AgriSoko Pocket."
+  },
+  {
+    "id": "m6",
+    "fullName": "Wene",
+    "registrationNumber": "REPLACE-REG-6",
+    "aliases": ["Six", "Release Engineer"],
+    "githubUsername": "replace-github-6",
+    "role": "Release and evidence engineer",
+    "skills": ["EAS APK build", "test matrix", "demonstration", "technical writing", "submission audit"],
+    "targetUser": "Stakeholders and reviewers evaluating project builds and evidence quality",
+    "problem": "The team needs verified APK distribution, clear audit trails, and technical documentation.",
+    "contribution": "Generated the EAS APK build, constructed the test matrix, organized project demonstrations, and conducted submission audits.",
+    "feature": "EAS build and release evidence",
+    "outcomeMetric": null,
+    "evidenceLinks": {
+      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/6",
+      "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/6",
+      "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
+      "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
+    },
+    "testerFeedback": null,
+    "introductionDraft": "My name is Wene. I managed the EAS APK build, test matrix, and release demonstration for AgriSoko Pocket."
+  }
+]

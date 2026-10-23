@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "AgriSoko Pocket G02",
+    "slug": "agrisoko-pocket-g02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "rw.ac.ines.agrisokopocket.g02",
+      "versionCode": 1
+    },
+    "extra": {
+      "apiBaseUrl": "http://localhost:8000",
+      "groupCode": "G02",
+      "githubUrl": "https://github.com/REPLACE/agrisoko-pocket-G02",
+      "verificationCode": "REPLACE-WITH-GROUP-VERIFICATION-CODE",
+      "eas": {
+        "projectId": "bce9f184-e516-4d91-96eb-477941e9c6c6"
+      }
+    }
+  }
+}

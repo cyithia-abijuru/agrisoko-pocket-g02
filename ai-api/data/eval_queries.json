@@ -1,0 +1,101 @@
+{
+  "_note": "Expanded and updated evaluation dataset queries covering all 6 team members (Arop, Onen, Fabio, Ali, Cynthia, and Wene) with 3+ queries each (name/alias, role/skill, contribution/feature), plus 5+ no-match queries.",
+  "queries": [
+    {
+      "q": "Tell me about Member One",
+      "expected": "m1"
+    },
+    {
+      "q": "Who is the product and GitHub lead?",
+      "expected": "m1"
+    },
+    {
+      "q": "Who managed backlog planning and release packaging?",
+      "expected": "m1"
+    },
+    {
+      "q": "Tell me about Member Two",
+      "expected": "m2"
+    },
+    {
+      "q": "Who knows TF-IDF and scikit-learn?",
+      "expected": "m2"
+    },
+    {
+      "q": "Who built the TF-IDF matching engine and no-match logic?",
+      "expected": "m2"
+    },
+    {
+      "q": "Tell me about Member Three",
+      "expected": "m3"
+    },
+    {
+      "q": "Who is the API and integration engineer?",
+      "expected": "m3"
+    },
+    {
+      "q": "Who implemented the FastAPI service and deployment?",
+      "expected": "m3"
+    },
+    {
+      "q": "Tell me about Member Four",
+      "expected": "m4"
+    },
+    {
+      "q": "Who is the mobile UI and navigation engineer?",
+      "expected": "m4"
+    },
+    {
+      "q": "Who built the mobile UI screens and profile presentation?",
+      "expected": "m4"
+    },
+    {
+      "q": "Tell me about Member Five",
+      "expected": "m5"
+    },
+    {
+      "q": "Who is the offline and quality engineer?",
+      "expected": "m5"
+    },
+    {
+      "q": "Who handled offline caching with AsyncStorage and NetInfo?",
+      "expected": "m5"
+    },
+    {
+      "q": "Tell me about Member Six",
+      "expected": "m6"
+    },
+    {
+      "q": "Who is the release and evidence engineer?",
+      "expected": "m6"
+    },
+    {
+      "q": "Who generated the EAS APK build and test matrix?",
+      "expected": "m6"
+    },
+    {
+      "q": "What is the weather in Kigali today?",
+      "expected": null
+    },
+    {
+      "q": "Recipe for cooking potatoes",
+      "expected": null
+    },
+    {
+      "q": "Who won the football match?",
+      "expected": null
+    },
+    {
+      "q": "Tell me something random",
+      "expected": null
+    },
+    {
+      "q": "Explain quantum physics",
+      "expected": null
+    },
+    {
+      "q": "Bitcoin price forecast",
+      "expected": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "model_version": "agrisoko-tfidf-1.0.0",
+  "group_code": "G02",
+  "vectorizer": "word(1-2) + char_wb(3-5) TF-IDF, cosine",
+  "threshold": 0.2,
+  "members": 4,
+  "vocabulary_word": 344,
+  "vocabulary_char": 1625,
+  "dataset_sha256": "e52f49bca715df46bab2726febe20edcc840c73116e2bdfde7ae9e3d1995a18c",
+  "build_commit": "unknown",
+  "built_at_utc": "2026-10-21T14:16:43.649068+00:00"
+}
