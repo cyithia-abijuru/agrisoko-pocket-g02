@@ -28,7 +28,7 @@
 | Who won the football match? | None | None | 0.154 | yes |
 | Tell me something random | None | None | 0.035 | yes |
 | Explain quantum physics | None | None | 0.035 | yes |
-| Bitcoin price forecast | None | None | 0.056 | yes |
+| Bitcoin price forecast for today | None | None | 0.056 | yes |
 
 ## Error table
 
