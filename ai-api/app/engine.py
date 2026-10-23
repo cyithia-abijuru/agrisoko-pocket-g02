@@ -4,7 +4,7 @@ Rules (documented for the report):
 1. One searchable document per member: name, aliases, role, skills, feature,
    problem, contribution and evidence summary (all taken from members.json).
 2. Two TF-IDF views (word 1-2 grams and char_wb 3-5 grams); the final cosine
-   score is the mean of the two views.
+   score is the mean of the two views we have.
 3. Exact name / alias boost: if a normalized name or alias appears as a whole
    word sequence in the normalized query, the score is raised to at least
    EXACT_BOOST (0.95). Single-token aliases shorter than 3 characters are ignored.

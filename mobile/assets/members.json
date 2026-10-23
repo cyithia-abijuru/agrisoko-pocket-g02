@@ -45,10 +45,10 @@
   },
   {
     "id": "m3",
-    "fullName": "Fabio",
-    "registrationNumber": "REPLACE-REG-3",
+    "fullName": "Fajwan Chanjwok Fajwan Deng",
+    "registrationNumber": "25/28110",
     "aliases": ["Three", "API Engineer"],
-    "githubUsername": "replace-github-3",
+    "githubUsername": "Hockmon69",
     "role": "API and integration engineer",
     "skills": ["FastAPI", "Pydantic", "deployment", "logging", "API contract"],
     "targetUser": "The mobile app and its users who need a reliable service",
@@ -57,7 +57,7 @@
     "feature": "FastAPI service and deployment",
     "outcomeMetric": null,
     "evidenceLinks": {
-      "issue": "https://github.com/REPLACE/agrisoko-pocket-G02/issues/3",
+      "issue": "https://github.com/cyithia-abijuru/agrisoko-pocket-g02/issues/3",
       "pullRequest": "https://github.com/REPLACE/agrisoko-pocket-G02/pull/3",
       "commit": "https://github.com/REPLACE/agrisoko-pocket-G02/commit/REPLACE",
       "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"

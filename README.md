@@ -14,6 +14,7 @@ A visitor asks a natural question ("Who built offline mode?", "Tell me about Ali
 | 2 | REPLACE | REPLACE | REPLACE | AI and data engineer | |
 | 3 | REPLACE | REPLACE | REPLACE | API and integration engineer | |
 | 4 | AROP | 25/27389| https://github.com/arop7431-afk | Mobile, offline and release | |
+| 5 | ALI SALAHELDIN | 2526883 | l33kang | Mobile, UI and navigating engineer | |
 
 ## Architecture
 ```
