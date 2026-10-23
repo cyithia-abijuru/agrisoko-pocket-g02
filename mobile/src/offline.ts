@@ -11,6 +11,7 @@ const norm = (s: string) =>
 /**
  * Offline lookup: exact name / alias / role, whole-word match only.
  * Returns a grounded AskResult built from stored fields, or null.
+ *  member5
  */
 export function offlineLookup(question: string, members: Member[] = bundledMembers): AskResult | null {
   const q = ` ${norm(question)} `;

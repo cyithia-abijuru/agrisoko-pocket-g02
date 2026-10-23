@@ -21,4 +21,4 @@ export async function loadLastResult(): Promise<ResultView | null> {
     const s = await AsyncStorage.getItem(KEY_LAST);
     return s ? (JSON.parse(s) as ResultView) : null;
   } catch { return null; }
-}
+} #member5

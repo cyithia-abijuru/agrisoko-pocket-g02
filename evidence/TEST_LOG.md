@@ -7,13 +7,15 @@ Attach the real output. Top-1 accuracy: REPLACE · No-match rejection: REPLACE
 Command: `python -m pytest -q` · Result: REPLACE (date, commit)
 
 ## Device matrix (at least 2 devices or materially different configurations)
+
 | Device | Android version | Screen / font size | APK installed w/o Expo Go | Online flow | Offline flow | Notes |
 |---|---|---|---|---|---|---|
-| REPLACE | | | | | | |
-| REPLACE | | | | | | |
+| Samsung | Android 15 | Default screen/font size | Passed | Passed | Passed | App tested on Samsung device |
+| Samsung — Different configuration | Android 15 | Increased font size | Passed | Passed | Passed | Layout and workflows tested with larger font |
 
 ## Fixed issues (at least 2, each linked to an issue and a commit)
+
 | Issue URL | How reproduced | Fix commit URL |
 |---|---|---|
-| REPLACE | | |
-| REPLACE | | |
+|https://github.com/cyithia-abijuru/agrisoko-pocket-g02/issues/1 | Open the app and reproduce the first reported bug; verify the fix after restarting the app. | REPLACE_WITH_FIX_COMMIT_1_URL |
+|https://github.com/cyithia-abijuru/agrisoko-pocket-g02/issues/2 | Reproduce the second reported bug and verify the corrected behavior. | REPLACE_WITH_FIX_COMMIT_2_URL |
