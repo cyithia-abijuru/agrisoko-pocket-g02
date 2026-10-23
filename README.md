@@ -8,10 +8,15 @@
 A visitor asks a natural question ("Who built offline mode?", "Tell me about Aline") and gets the best-matching team member with a confidence score, the reason for the match and an evidence-based introduction built only from approved facts in `ai-api/data/members.json`.
 
 ## Members and roles
-| # | Name | Reg. no. | GitHub | Primary role | Review role |
+| # | Name | Reg. no. | GitHub  | Primary role | Review role |
 |---|------|----------|--------|--------------|-------------|
+<<<<<<< Updated upstream
 | 1 | REPLACE | REPLACE | REPLACE | Product and GitHub lead | |
 | 2 | Dominic Onen | 2528259 | DominicOnen | AI and data engineer | |
+=======
+| 1 | ABIJURU Cynthia | cyithia-abijuru | REPLACE | Product and GitHub lead | |
+| 2 | REPLACE | REPLACE | AI and data engineer | |
+>>>>>>> Stashed changes
 | 3 | REPLACE | REPLACE | REPLACE | API and integration engineer | |
 | 4 | AROP | 25/27389| https://github.com/arop7431-afk | Mobile, offline and release | |
 | 5 | ALI SALAHELDIN | 2526883 | l33kang | Mobile, UI and navigating engineer | |

@@ -2,9 +2,13 @@
   {
     "id": "m1",
     "fullName": "Cynthia",
+<<<<<<< Updated upstream
     "registrationNumber": "REPLACE-REG-1",
+=======
+    "registrationNumber": "25/27096",
+>>>>>>> Stashed changes
     "aliases": ["One", "Product Lead"],
-    "githubUsername": "replace-github-1",
+    "githubUsername": "cyithia-abijuru",
     "role": "Product and GitHub lead",
     "skills": ["GitHub issues", "pull requests", "release management", "backlog planning"],
     "targetUser": "Potato cooperative members and innovation partners in Musanze",
@@ -19,7 +23,11 @@
       "demo": "evidence/COMBO_A3_G02_DEMO.mp4 (timestamp to be added)"
     },
     "testerFeedback": null,
+<<<<<<< Updated upstream
     "introductionDraft": "My name is Cynthia. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
+=======
+    "introductionDraft": "My name is ABIJURU Cynthia. I lead the product and repository work for AgriSoko Pocket so that partners can verify who built what."
+>>>>>>> Stashed changes
   },
   {
     "id": "m2",
@@ -90,7 +98,11 @@
   {
     "id": "m5",
     "fullName": "Arop",
+<<<<<<< Updated upstream
     "registrationNumber": "25/27389",
+=======
+    "registrationNumber": "REPLACE-REG-5",
+>>>>>>> Stashed changes
     "aliases": ["Five", "Offline Engineer"],
     "githubUsername": "arop7431-afk",
     "role": "Offline and quality engineer",
